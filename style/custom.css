@@ -1,3 +1,7 @@
 p{
     color: #303030;
 }
+
+div#linki > a:not(.last){
+    color: #DDD;
+}
