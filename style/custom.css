@@ -5,3 +5,7 @@ p{
 div#linki > a:not(.last){
     color: #DDD;
 }
+
+div#linki a:nth-child(2){
+    background-color: aquamarine;
+}
